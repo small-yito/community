@@ -1,5 +1,5 @@
 ## 学习社区
-    学习使用GIT和GitHub
+    learn Git and GitHub
     
 ##资料
 https://spring.io/guides
